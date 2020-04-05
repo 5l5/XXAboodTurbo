@@ -13,7 +13,6 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using xNet;
-using System.Web;
 namespace XXAboodTurbo
 {
     public partial class Form1 : Form
